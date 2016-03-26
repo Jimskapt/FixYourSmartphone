@@ -3,6 +3,8 @@ FYS is a 3D-printed box to fix your smartphone on various cylindrical objects, l
 
 Thanks to 2 strips of [Velcro](https://en.wikipedia.org/wiki/Hook_and_loop_fastener), you can wrap this box on the cylinder, and you can add additionnal Velcro strip to close the box (in order to secure your smarthone)
 
+![Preview in OpenSCAD](https://github.com/Jimskapt/FixYourSmartphone/blob/master/preview_openSCAD.png?raw=true)
+
 Built with the amazing [OpenSCAD](www.openscad.org) program and set to be used with an Samsung Galaxy S 5, but you can change everything thanks to variables.
 
 Sucessfully printed with "Dagoma Discovery 200" printer.
